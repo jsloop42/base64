@@ -17,10 +17,21 @@ Base64 *base64;
 - (void)viewDidLoad {
     [super viewDidLoad];
     base64 = [[Base64 alloc] init];
+    [self setTextFieldAttributes];
 }
 
 - (void)setRepresentedObject:(id)representedObject {
     [super setRepresentedObject:representedObject];
+}
+
+#pragma mark - UI Styles
+
+- (void)setTextFieldAttributes {
+    NSFont *mono = [NSFont fontWithName:@"Monaco" size:12];
+    encodeInput.font = mono;
+    encodeOutput.font = mono;
+    decodeInput.font = mono;
+    decodeOutput.font = mono;
 }
 
 #pragma mark - Delegates

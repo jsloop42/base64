@@ -32,7 +32,6 @@ AboutWindowController *aboutWindowCtrlr;
     NSLog(@"about invoked");
     aboutWindowCtrlr = [[AboutWindowController alloc] initWithWindowNibName:@"AboutWindow"];
     [aboutWindowCtrlr showWindow:nil];
-    [[aboutWindowCtrlr window] makeKeyAndOrderFront:nil];
 }
 
 

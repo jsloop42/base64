@@ -8,6 +8,11 @@
 
 #import <Cocoa/Cocoa.h>
 
+#define WEBSITE @"http://int3h.xyz"
+
 @interface AboutWindowController : NSWindowController
 
+@property (weak, nonatomic) IBOutlet NSTextField *appWithVersion;
+@property (weak, nonatomic) IBOutlet NSTextField *appWebsite;
+    
 @end
