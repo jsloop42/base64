@@ -1,6 +1,6 @@
 ### Base64 macOS App 
 
-[`v1.1`](https://github.com/kadaj/base64/raw/master/releases/Base64-v1.0.zip)
+[`v1.1`](https://github.com/kadaj/base64/raw/master/releases/Base64-v1.1.zip)
 
 A simple macOS app for encoding and decoding base64 strings, which works offline.  
 For macOS 10.11+
