@@ -7,8 +7,8 @@ For macOS 10.11+
 
 #### Screens
 
-![Encode](http://i.imgur.com/uNYdhHU.png)
-![Decode](http://i.imgur.com/K8eBSln.png)
+![Encode](http://i.imgur.com/poPMlac.png)
+![Decode](http://i.imgur.com/RbmsYCB.png)
 
 #### Changelogs
 
