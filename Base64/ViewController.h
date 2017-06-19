@@ -2,8 +2,8 @@
 //  ViewController.h
 //  Base64
 //
-//  Created by kadaj on 29/04/17.
-//  Copyright © 2017 int3h.xyz. All rights reserved.
+//  Created by Jaseem V V on 29/04/17.
+//  Copyright © 2017 qlambda.com. All rights reserved.
 //
 
 #import <Cocoa/Cocoa.h>

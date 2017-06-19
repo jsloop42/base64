@@ -382,7 +382,7 @@
 				INFOPLIST_FILE = Base64/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/../Frameworks";
 				MACOSX_DEPLOYMENT_TARGET = 10.11;
-				PRODUCT_BUNDLE_IDENTIFIER = xyz.int3h.Base64;
+				PRODUCT_BUNDLE_IDENTIFIER = com.qlambda.base64;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE_SPECIFIER = "";
 			};
@@ -399,7 +399,7 @@
 				INFOPLIST_FILE = Base64/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/../Frameworks";
 				MACOSX_DEPLOYMENT_TARGET = 10.11;
-				PRODUCT_BUNDLE_IDENTIFIER = xyz.int3h.Base64;
+				PRODUCT_BUNDLE_IDENTIFIER = com.qlambda.base64;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE_SPECIFIER = "";
 			};

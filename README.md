@@ -28,4 +28,4 @@ For macOS 10.11+
 This program is licenced under [GNU GPLv3](https://www.gnu.org/licenses/gpl-3.0.en.html)
 
 30 April 2017  
-kadaj
+Jaseem V V
