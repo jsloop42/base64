@@ -183,7 +183,7 @@
 				TargetAttributes = {
 					F61F38391EB452D500BFA7B6 = {
 						CreatedOnToolsVersion = 8.3.2;
-						DevelopmentTeam = 7S7UE44956;
+						DevelopmentTeam = TPAP6QPH98;
 						ProvisioningStyle = Automatic;
 						SystemCapabilities = {
 							com.apple.Sandbox = {
@@ -193,7 +193,7 @@
 					};
 					F61F384F1EB452D600BFA7B6 = {
 						CreatedOnToolsVersion = 8.3.2;
-						DevelopmentTeam = 7S7UE44956;
+						DevelopmentTeam = TPAP6QPH98;
 						ProvisioningStyle = Automatic;
 						TestTargetID = F61F38391EB452D500BFA7B6;
 					};
@@ -204,6 +204,7 @@
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
 			knownRegions = (
+				English,
 				en,
 				Base,
 			);
@@ -378,11 +379,12 @@
 				CODE_SIGN_ENTITLEMENTS = Base64/Base64.entitlements;
 				CODE_SIGN_IDENTITY = "Mac Developer";
 				COMBINE_HIDPI_IMAGES = YES;
-				DEVELOPMENT_TEAM = 7S7UE44956;
+				DEVELOPMENT_TEAM = TPAP6QPH98;
 				INFOPLIST_FILE = Base64/Info.plist;
+				INFOPLIST_KEY_LSApplicationCategoryType = "public.app-category.developer-tools";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/../Frameworks";
 				MACOSX_DEPLOYMENT_TARGET = 10.11;
-				PRODUCT_BUNDLE_IDENTIFIER = com.qlambda.Base64;
+				PRODUCT_BUNDLE_IDENTIFIER = net.jsloop.Base64;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE_SPECIFIER = "";
 			};
@@ -395,11 +397,12 @@
 				CODE_SIGN_ENTITLEMENTS = Base64/Base64.entitlements;
 				CODE_SIGN_IDENTITY = "Mac Developer";
 				COMBINE_HIDPI_IMAGES = YES;
-				DEVELOPMENT_TEAM = 7S7UE44956;
+				DEVELOPMENT_TEAM = TPAP6QPH98;
 				INFOPLIST_FILE = Base64/Info.plist;
+				INFOPLIST_KEY_LSApplicationCategoryType = "public.app-category.developer-tools";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/../Frameworks";
 				MACOSX_DEPLOYMENT_TARGET = 10.11;
-				PRODUCT_BUNDLE_IDENTIFIER = com.qlambda.Base64;
+				PRODUCT_BUNDLE_IDENTIFIER = net.jsloop.Base64;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE_SPECIFIER = "";
 			};
@@ -410,10 +413,10 @@
 			buildSettings = {
 				BUNDLE_LOADER = "$(TEST_HOST)";
 				COMBINE_HIDPI_IMAGES = YES;
-				DEVELOPMENT_TEAM = 7S7UE44956;
+				DEVELOPMENT_TEAM = TPAP6QPH98;
 				INFOPLIST_FILE = Base64Tests/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/../Frameworks @loader_path/../Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = xyz.int3h.Base64Tests;
+				PRODUCT_BUNDLE_IDENTIFIER = net.jsloop.Base64Tests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Base64.app/Contents/MacOS/Base64";
 			};
@@ -424,10 +427,10 @@
 			buildSettings = {
 				BUNDLE_LOADER = "$(TEST_HOST)";
 				COMBINE_HIDPI_IMAGES = YES;
-				DEVELOPMENT_TEAM = 7S7UE44956;
+				DEVELOPMENT_TEAM = TPAP6QPH98;
 				INFOPLIST_FILE = Base64Tests/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/../Frameworks @loader_path/../Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = xyz.int3h.Base64Tests;
+				PRODUCT_BUNDLE_IDENTIFIER = net.jsloop.Base64Tests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Base64.app/Contents/MacOS/Base64";
 			};
