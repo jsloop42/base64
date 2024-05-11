@@ -179,7 +179,7 @@
 			isa = PBXProject;
 			attributes = {
 				LastUpgradeCheck = 0830;
-				ORGANIZATIONNAME = int3h.xyz;
+				ORGANIZATIONNAME = "Jaseem V V";
 				TargetAttributes = {
 					F61F38391EB452D500BFA7B6 = {
 						CreatedOnToolsVersion = 8.3.2;
@@ -379,6 +379,7 @@
 				CODE_SIGN_ENTITLEMENTS = Base64/Base64.entitlements;
 				CODE_SIGN_IDENTITY = "Mac Developer";
 				COMBINE_HIDPI_IMAGES = YES;
+				CURRENT_PROJECT_VERSION = 2;
 				DEVELOPMENT_TEAM = TPAP6QPH98;
 				INFOPLIST_FILE = Base64/Info.plist;
 				INFOPLIST_KEY_LSApplicationCategoryType = "public.app-category.developer-tools";
@@ -398,6 +399,7 @@
 				CODE_SIGN_ENTITLEMENTS = Base64/Base64.entitlements;
 				CODE_SIGN_IDENTITY = "Mac Developer";
 				COMBINE_HIDPI_IMAGES = YES;
+				CURRENT_PROJECT_VERSION = 2;
 				DEVELOPMENT_TEAM = TPAP6QPH98;
 				INFOPLIST_FILE = Base64/Info.plist;
 				INFOPLIST_KEY_LSApplicationCategoryType = "public.app-category.developer-tools";

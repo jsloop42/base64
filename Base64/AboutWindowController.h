@@ -3,12 +3,12 @@
 //  Base64
 //
 //  Created by Jaseem V V on 30/04/17.
-//  Copyright © 2017 qlambda.com. All rights reserved.
+//  Copyright © 2017 Jaseem V V. All rights reserved.
 //
 
 #import <Cocoa/Cocoa.h>
 
-#define WEBSITE @"http://int3h.xyz"
+#define WEBSITE @"https://jsloop.net"
 
 @interface AboutWindowController : NSWindowController
 

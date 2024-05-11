@@ -1,14 +1,13 @@
-### Base64 macOS App 
+## Base64 macOS App 
 
 A macOS app for encoding and decoding base64 strings, which works offline.  
 For macOS 10.11+.
 
-#### Screens
+### Screens
 
-![Encode]()
-![Decode]()
+![Encode UI](http://i.imgur.com/poPMlac.png)
 
-#### Changelogs
+### Change Logs
 
 #### v1.1
 
@@ -21,6 +20,6 @@ For macOS 10.11+.
 - Base64 encode, decode
 - Fully sandboxed entitlement
 
-#### Licence
+### License
 
-This program is licenced under [GNU GPLv3](https://www.gnu.org/licenses/gpl-3.0.en.html)
+This program is licensed under [GNU GPLv3](https://www.gnu.org/licenses/gpl-3.0.en.html)

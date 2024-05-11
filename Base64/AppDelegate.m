@@ -3,7 +3,7 @@
 //  Base64
 //
 //  Created by Jaseem V V on 29/04/17.
-//  Copyright © 2017 qlambda.com. All rights reserved.
+//  Copyright © 2017 Jaseem V V. All rights reserved.
 //
 
 #import "AppDelegate.h"
